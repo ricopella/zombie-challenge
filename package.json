@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/ricopella/zombie-challenge#readme",
   "dependencies": {
+    "colors": "^1.1.2",
     "inquirer": "^3.1.1"
   }
 }
