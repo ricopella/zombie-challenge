@@ -30,3 +30,14 @@ Packages used:
 ### Prerequisites
 
 You will need [Node.JS](https://www.npmjs.com/) and [NPM](https://nodejs.org/en/) installed on your system.
+
+# Commands to run application
+
+1.      `node zombiegame.js`
+    * Game starts
+    * Guess a number between 1 - 5 
+
+
+# Demo
+
+![Demo](https://media.giphy.com/media/1DO0CyhbfER2w/giphy.gif)
